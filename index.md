@@ -79,14 +79,6 @@ __Senior Advisor for Statistics Communication and Media Innovation__
 <br>Centre de Recherches Mathématiques
 <br> __McGill University__, Montreal, Quebec, Canada
 
-`2001 - 2002`  Biostatistics and Epidemiology Instructor
-<br> __Stanford University__, Palo Alto, California
-
-`1996 - 2002`
-Graduate Teaching Assistant
-<br>**Stanford University Department of Statistics**, Palo Alto, California
-
-
 ### selected consultancies and other work
 
 **Stanford Engineering Center for Global & Online Education**
