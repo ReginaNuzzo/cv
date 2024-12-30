@@ -11,9 +11,10 @@ Statistician, Journalist, Communicator, Professor
 | <a href="my.gallaudet.edu/regina-nuzzo">university web page</a>
 </div>
 
+### specialties
+statistics, data, writing, speaking
 
 ## education
-### degrees
 
 `2003`
 Ph.D. __Stanford University__, Statistics
@@ -21,47 +22,73 @@ Ph.D. __Stanford University__, Statistics
 `1996`
 B.S. __University of South Florida__, Industrial Engineering
 
-### other graduate training
 `2004`
 Graduate certificate, __University of California-Santa Cruz__, Science Communication
 
 
 ## professional experience
-### academic
 `2006 - present`
- Professor/Associate Professor/Assistant Professor
+ Professor / Associate Professor / Assistant Professor
 <br>
 Department of Science, Technology & Mathematics
  <br>
- Department of Psychology
- <br>
  __Gallaudet University__, Washington DC
+
+ - Teach undergraduate and graduate students statistics and data analysis using R, jamovi, JASP, SPSS, Tableau
+ - Provide statistical consulting for graduate students and faculty members 
+
+ `Spring 2022, Spring 2023, Summer 2023, Summer 2024, Summer 2025`
+ Lecturer
+ <br>
+ Department of Primary Care and Population Health, School of Medicine
+ <br>
+ __Stanford University__, Palo Alto CA
+
+ - Co-developed and co-teach a statistics course for the Masters in Clinical Informatics Management program
+
+`2006 - present`
+ **Freelance Journalist and Writer**
+- Experience with features, profiles, news, and service pieces for magazines and newspapers
+- Specializing in statistics, probability, data analysis, the research process and biases, medicine, and health
+- Publications include _Los Angeles Times_, _Nature_, _New Scientist_, _Scientific American_, _Reader's Digest_
+
+ `2019 - 2022`
+ Senior Advisor for Statistics Communication and Media Innovation
+ <br> 
+ __American Statistical Association__, Alexandria, VA
+
+ - Consulted with journalists on statistical matters, for both short-term and long-term deadlines
+ - Gave statistics workshops to non-statisticians
+ - Gave communication workshops and training to statisticians and other professional quantatitative analysts 
+ - Gave statistics workshops and training to journalists and other professional communicators
+
+`2020` Adjunct Instructor
+<br> __Virginia Tech__, Arlington, VA
+
+- Developed and taught a course on statistics communication for Masters in Applied Statistics and Data Science program
+
+
+`2005 - 2006` Science Writer
+<br> ___Proceedings of the National Academy of Sciences___
+
+`2004` Science Journalism Fellow
+<br> __Department of Energy’s Idaho National Environmental Laboratory__
+
+`2003 - 2004` Science Journalism Intern
+<br> ___Monterey County Herald___
 
  `2002 - 2003`  Post-doctoral Fellow
 <br>Centre de Recherches Mathématiques
-<br>__McGill University__, Montreal, Quebec, Canada
+<br> __McGill University__, Montreal, Quebec, Canada
 
 `2001 - 2002`  Biostatistics and Epidemiology Instructor
-<br>__Stanford University Medical School__, Palo Alto, California
+<br> __Stanford University__, Palo Alto, California
 
 `1996 - 2002`
 Graduate Teaching Assistant
 <br>**Stanford University Department of Statistics**, Palo Alto, California
 
-### communication
-`2006 - present`
- **Freelance Journalist and Writer**
-<br> Experience with features, profiles, news pieces, and service pieces for magazines and newspapers
-<br>Specializing in statistics, probability, data analysis, the research process and biases, medicine, and health.
 
-`2005 - 2006` Science Writer
-<br>__National Academy of Sciences__
-
-`2004` Science Journalism Fellow
-<br>__Department of Energy’s Idaho National Environmental Laboratory__
-
-`2003 - 2004`Science Journalism Intern
-<br>___Monterey County Herald___
 
 ### selected consultancies
 **Consultant, U.S. Department of Health and Human Services**
