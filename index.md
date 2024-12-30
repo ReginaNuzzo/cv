@@ -11,9 +11,6 @@ Statistician, Journalist, Communicator, Professor
 | <a href="my.gallaudet.edu/regina-nuzzo">university web page</a>
 </div>
 
-### specialties
-statistics, data, writing, speaking
-
 ## education
 
 `2003`
@@ -74,10 +71,6 @@ __Senior Advisor for Statistics Communication and Media Innovation__
 
 `2003 - 2004` Science Journalism Intern
 <br> ___Monterey County Herald___
-
- `2002 - 2003`  Post-doctoral Fellow
-<br>Centre de Recherches Mathématiques
-<br> __McGill University__, Montreal, Quebec, Canada
 
 ### selected consultancies and other work
 
