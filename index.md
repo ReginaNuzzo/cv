@@ -28,7 +28,7 @@ Graduate certificate, __University of California-Santa Cruz__, Science Communica
 
 ## professional experience
 `2006 - present`
- Professor / Associate Professor / Assistant Professor
+ __Professor__ / Associate Professor / Assistant Professor
 <br>
 Department of Science, Technology & Mathematics
  <br>
@@ -37,8 +37,8 @@ Department of Science, Technology & Mathematics
  - Teach undergraduate and graduate students statistics and data analysis using R, jamovi, JASP, SPSS, Tableau
  - Provide statistical consulting for graduate students and faculty members 
 
- `Spring 2022, Spring 2023, Summer 2023, Summer 2024, Summer 2025`
- Lecturer
+ `Spring 2022, Spring 2023, Summer 2023, Summer 2024, Summer 2025`<br>
+ __Lecturer__
  <br>
  Department of Primary Care and Population Health, School of Medicine
  <br>
