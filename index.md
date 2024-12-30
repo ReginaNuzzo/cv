@@ -49,7 +49,7 @@ Department of Science, Technology & Mathematics
  **Freelance Journalist and Writer**
 - Experience with features, profiles, news, and service pieces for magazines and newspapers
 - Specializing in statistics, probability, data analysis, the research process and biases, medicine, and health
-- Publications include _Los Angeles Times_, _Nature_, _New Scientist_, _Scientific American_, _Reader's Digest_
+- Publications include _Los Angeles Times_, _New York Times_, _Nature_, _New Scientist_, _Science News_, _Scientific American_, _Knowable_, _Reader's Digest_, _Prevention_, _Good Housekeeping_, _AARP Magazine_, _ESPN the Magazine_
 
  `2019 - 2022`
 __Senior Advisor for Statistics Communication and Media Innovation__
