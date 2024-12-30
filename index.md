@@ -66,7 +66,7 @@ __Senior Advisor for Statistics Communication and Media Innovation__
 
 - Developed and taught a course on statistics communication for Masters in Applied Statistics and Data Science program
 
-`2005 - 2006` __Science Writer__
+`2005 - 2006` Science Writer
 <br> ___Proceedings of the National Academy of Sciences___
 
 `2004` Science Journalism Fellow
@@ -91,6 +91,12 @@ Graduate Teaching Assistant
 
 **Council for the Advancement of Science Writing**
 <br>Co-developed a 12-module online course for science, environmental and health journalists, including case study video lectures and automated practice exercises (with Kristin Sainani, Stanford University), 2022
+
+**Credit Suisse**
+<br>Co-developed and co-delivered a 3-hour training workshop for quantitative financial analysts on how to write about quantitative results and methodology more clearly and effectively (with Kristin Sainani, Stanford University), 2021
+
+**Grupo de Estudio del SIDA (HIV Research Group)** and **Gilead Sciences**
+<br>Co-developed and co-delivered a 10-hour workshop for Spanish-speaking medical clinicians on clear scientific writing, 2021, 2022, 2023, 2024
 
 **U.S. Department of Health and Human Services**
 <br>developed “Creating Reasonable Doubt: Communicating Statistical Information in Quantitative Research” workshop delivered to Office of Planning, Research & Evaluation, Administration for Children and Families (with Paaige Turner, Dean of Ball State University School of Communication), May 2018.
