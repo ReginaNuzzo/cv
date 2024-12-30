@@ -87,31 +87,41 @@ Graduate Teaching Assistant
 <br>**Stanford University Department of Statistics**, Palo Alto, California
 
 
-### selected consultancies
+### selected consultancies and other work
+
+**Stanford Engineering Center for Global & Online Education**
+<br>Co-developed _Demystifying Data_, a 16-module online course on learning statistics through case studies and _Introduction to Clinical Trials_, a 16-module online course on designing, analyzing, and interpreting clinical trial studies (with Kristin Sainani, Stanford University, 2024 and 2023, respectively)
+
+**Applied Materials, Inc.**
+<br>Created a three-hour workshop for materials engineers on how to effectively communicate results from data analyses in writing and visualization, 2023 and 2024
 
 **Council for the Advancement of Science Writing**
 <br>Co-developed a 12-module online course for science, environmental and health journalists, including case study video lectures and automated practice exercises (with Kristin Sainani, Stanford University), 2022
+
+**U.S. Department of Labor**
+<br>Developed a 3-hour training workshop for judges at the Department of Labor's Office of Administrative Law Judges on how to understand and ask questions about complex multiple regression models used in Equal Opportunity legal cases, 2022
 
 **Credit Suisse**
 <br>Co-developed and co-delivered a 3-hour training workshop for quantitative financial analysts on how to write about quantitative results and methodology more clearly and effectively (with Kristin Sainani, Stanford University), 2021
 
 **Grupo de Estudio del SIDA (HIV Research Group)** and **Gilead Sciences**
-<br>Co-developed and co-delivered a 10-hour workshop for Spanish-speaking medical clinicians on clear scientific writing, 2021, 2022, 2023, 2024
+<br>Co-developed and co-delivered a 10-hour workshop for Spanish-speaking medical clinicians on clear scientific writing (with Kristin Sainani, Stanford University), 2021, 2022, 2023, 2024
+
+**SciLine at AAAS**
+<br>Developed a plain-language tipsheet for journalists on [how to cover opinion polls and surveys](https://www.sciline.org/elections/covering-polls-surveys/), 2020
+
+**American Association of Public Opinion Researchers**
+<br>Developed a half-day course on effective quantitative communication for pollsters and public opinion researchers, 2020
 
 **U.S. Department of Health and Human Services**
-<br>developed “Creating Reasonable Doubt: Communicating Statistical Information in Quantitative Research” workshop delivered to Office of Planning, Research & Evaluation, Administration for Children and Families (with Paaige Turner, Dean of Ball State University School of Communication), May 2018.
+<br>Developed “Creating Reasonable Doubt: Communicating Statistical Information in Quantitative Research” workshop delivered to Office of Planning, Research & Evaluation, Administration for Children and Families (with Paaige Turner, Dean of Ball State University School of Communication), 2018.
 
 **Massachusetts Institute of Technology Knight Science Journalism Fellowship Program**
-<br>developed and presented full-day workshop, “Statistics for Science Journalists,” to Knight Science Journalism Fellows (with Rebecca Goldin, George Mason University), January, 2017.
+<br>Developed and presented full-day workshop, “Statistics for Science Journalists,” to Knight Science Journalism Fellows (with Rebecca Goldin, George Mason University), 2017.
 
 **American Statistical Association**
-<br>planned and facilitated two-day on-site policy workshop for p-values scholars on building consensus, and coordinated writing  the ASA Statement on P-Values (with ASA Executive Director Ron Wasserstein), ["The ASA’s statement on p-values: context, process, and purpose." _The American Statistician_, November 2015](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.XAhSzKfMzrI)
+<br>Planned and facilitated two-day on-site policy workshop for p-values scholars on building consensus, and coordinated writing  the ASA Statement on P-Values (with ASA Executive Director Ron Wasserstein), ["The ASA’s statement on p-values: context, process, and purpose." _The American Statistician_, November 2015](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.XAhSzKfMzrI)
 
-**George Washington School of Media and Public Affairs**
-<br>developed and presented sessions for a two-day workshop for on science writing for George Washington University, Washington, D.C., April 13 -14, 2015.
-
-**Writer, _Reader’s Digest_**
-<br>researched and wrote “News from the World of Medicine” monthly column, 2012 - 2013.
 
 ## scholarly and creative activities
 
