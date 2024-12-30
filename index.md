@@ -87,18 +87,21 @@ Graduate Teaching Assistant
 <br>**Stanford University Department of Statistics**, Palo Alto, California
 
 
-
 ### selected consultancies
-**Consultant, U.S. Department of Health and Human Services**
+
+**Council for the Advancement of Science Writing**
+<br>Co-developed a 12-module online course for science, environmental and health journalists, including case study video lectures and automated practice exercises (with Kristin Sainani, Stanford University), 2022
+
+**U.S. Department of Health and Human Services**
 <br>developed “Creating Reasonable Doubt: Communicating Statistical Information in Quantitative Research” workshop delivered to Office of Planning, Research & Evaluation, Administration for Children and Families (with Paaige Turner, Dean of Ball State University School of Communication), May 2018.
 
-**Consultant, Massachusetts Institute of Technology Knight Science Journalism Fellowship Program**
-<br>developed and presented full-day workshop, “Statistics for Science Journalists,” to Knight Science Journalism Fellows (with Rebecca Goldin), January, 2017.
+**Massachusetts Institute of Technology Knight Science Journalism Fellowship Program**
+<br>developed and presented full-day workshop, “Statistics for Science Journalists,” to Knight Science Journalism Fellows (with Rebecca Goldin, George Mason University), January, 2017.
 
-**Consultant, American Statistical Association**
+**American Statistical Association**
 <br>planned and facilitated two-day on-site policy workshop for p-values scholars on building consensus, and coordinated writing  the ASA Statement on P-Values (with ASA Executive Director Ron Wasserstein), ["The ASA’s statement on p-values: context, process, and purpose." _The American Statistician_, November 2015](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.XAhSzKfMzrI)
 
-**Consultant, George Washington School of Media and Public Affairs**
+**George Washington School of Media and Public Affairs**
 <br>developed and presented sessions for a two-day workshop for on science writing for George Washington University, Washington, D.C., April 13 -14, 2015.
 
 **Writer, _Reader’s Digest_**
