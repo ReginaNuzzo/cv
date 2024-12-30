@@ -23,6 +23,13 @@ B.S. __University of South Florida__, Industrial Engineering
 Graduate certificate, __University of California-Santa Cruz__, Science Communication
 
 ## professional experience
+
+`2005 - present`
+ **Freelance Journalist and Writer**
+- Experience with features, profiles, news, and service pieces for magazines and newspapers
+- Specializing in statistics, probability, data analysis, the research process and biases, medicine, and health
+- Publications include _Los Angeles Times_, _New York Times_, _Nature_, _New Scientist_, _Science News_, _Scientific American_, _Knowable_, _Reader's Digest_, _Prevention_, _Good Housekeeping_, _AARP Magazine_, _ESPN the Magazine_
+- 
 `2006 - present`
  __Professor__ / Associate Professor / Assistant Professor
 <br>
@@ -41,12 +48,6 @@ Department of Science, Technology & Mathematics
  __Stanford University__, Palo Alto CA
 
  - Co-developed and co-teach a statistics course for the Masters in Clinical Informatics Management program
-
-`2006 - present`
- **Freelance Journalist and Writer**
-- Experience with features, profiles, news, and service pieces for magazines and newspapers
-- Specializing in statistics, probability, data analysis, the research process and biases, medicine, and health
-- Publications include _Los Angeles Times_, _New York Times_, _Nature_, _New Scientist_, _Science News_, _Scientific American_, _Knowable_, _Reader's Digest_, _Prevention_, _Good Housekeeping_, _AARP Magazine_, _ESPN the Magazine_
 
  `2019 - 2022`
 __Senior Advisor for Statistics Communication and Media Innovation__
@@ -105,14 +106,10 @@ __Senior Advisor for Statistics Communication and Media Innovation__
 <br>Developed and presented full-day workshop, “Statistics for Science Journalists,” to Knight Science Journalism Fellows (with Rebecca Goldin, George Mason University), 2017.
 
 **American Statistical Association**
-<br>Planned and facilitated two-day on-site policy workshop for p-values scholars on building consensus, and coordinated writing  the ASA Statement on P-Values (with ASA Executive Director Ron Wasserstein), ["The ASA’s statement on p-values: context, process, and purpose." _The American Statistician_, November 2015](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.XAhSzKfMzrI)
+<br>Planned and facilitated two-day on-site policy workshop for p-values scholars on building consensus, and coordinated writing  the ASA Statement on P-Values (with ASA Executive Director Ron Wasserstein), [The ASA’s statement on p-values](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.XAhSzKfMzrI), 2015
 
 
-## scholarly and creative activities
-
-## data, probability, and statistics
-#### popular press
-
+## selected clips in popular press
 
 Nuzzo, Regina. [“When courtroom science goes wrong --- and how stats can fix it.”](https://www.knowablemagazine.org/article/society/2018/when-courtroom-science-goes-wrong-and-how-stats-can-fix-it) Comics. _Knowable Magazine_, October 2018. (with artist Maki Naro)
 
