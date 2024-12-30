@@ -28,7 +28,7 @@ Graduate certificate, __University of California-Santa Cruz__, Science Communica
 
 ## professional experience
 `2006 - present`
- Professor / Associate Professor / Assistant Professor
+ __Professor__ / Associate Professor / Assistant Professor
 <br>
 Department of Science, Technology & Mathematics
  <br>
@@ -38,7 +38,7 @@ Department of Science, Technology & Mathematics
  - Provide statistical consulting for graduate students and faculty members 
 
  `Spring 2022, Spring 2023, Summer 2023, Summer 2024, Summer 2025`
-<br> Lecturer
+<br> __Lecturer__
  <br>
  Department of Primary Care and Population Health, School of Medicine
  <br>
@@ -53,7 +53,7 @@ Department of Science, Technology & Mathematics
 - Publications include _Los Angeles Times_, _Nature_, _New Scientist_, _Scientific American_, _Reader's Digest_
 
  `2019 - 2022`
- Senior Advisor for Statistics Communication and Media Innovation
+ __Senior Advisor for Statistics Communication and Media Innovation__
  <br> 
  __American Statistical Association__, Alexandria, VA
 
@@ -62,7 +62,7 @@ Department of Science, Technology & Mathematics
  - Gave communication workshops and training to statisticians and other professional quantatitative analysts 
  - Gave statistics workshops and training to journalists and other professional communicators
 
-`2020` Adjunct Instructor
+`2020` __Adjunct Instructor__
 <br> __Virginia Tech__, Arlington, VA
 
 - Developed and taught a course on statistics communication for Masters in Applied Statistics and Data Science program
