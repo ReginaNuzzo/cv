@@ -38,7 +38,7 @@ Department of Science, Technology & Mathematics
  - Provide statistical consulting for graduate students and faculty members 
 
  `Spring 2022, Spring 2023, Summer 2023, Summer 2024, Summer 2025`
- Lecturer
+<br> Lecturer
  <br>
  Department of Primary Care and Population Health, School of Medicine
  <br>
