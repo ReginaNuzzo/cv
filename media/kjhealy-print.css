@@ -155,7 +155,7 @@ h3 {
 
 a {
 	color: #3D40AB;
-	text-decoration:underline
+	text-decoration:none
 }
 
 a:hover {
@@ -172,7 +172,7 @@ a:hover {
 }
 
 #webaddress a {
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 em {
