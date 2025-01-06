@@ -3,14 +3,10 @@ layout: cv
 title: Regina Nuzzo
 ---
 # Regina Nuzzo
-<br>
 <div id="webaddress">
 <a href="Regina.Nuzzo@gmail.com">Regina.Nuzzo@gmail.com</a>
 | <a href="my.gallaudet.edu/regina-nuzzo">university web page</a>
 </div>
-
-### specialties
-statistics, data, writing, speaking
 
 ## education
 
