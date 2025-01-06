@@ -172,7 +172,7 @@ a:hover {
 }
 
 #webaddress a {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 em {
