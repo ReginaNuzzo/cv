@@ -213,8 +213,6 @@ Invited speaker, "Flawed COVID-19 research: Why statistics is more important tha
 
 Keynote speaker, "Connecting 21st-Century Information to Stone-Age Brains:  Numbers, Uncertainty, Surprise and More," ComSciCon Virginia Tech, February 2020.
 
-Invited speaker, "Human-Centered Quantitative Communication," Clinical and Translational Science Lecture Series, Virginia Tech and University of Virginia, December 2019.
-
 Keynote speaker, "Statistical Significance: How we got here and where we're going," Polish Pharmacoeconomics Society Conference, Warsaw, Poland, November 2019.
 
 Keynote speaker, "Why we should apply human-centered design to statistical communication," Open Statistics / Open Eyes Conference, University of Bologna, Cesena, Italy, September 2019.
@@ -234,8 +232,6 @@ Invited presenter, “Statistics Communication: Thoughts on a New Model of Engag
 Plenary speaker, “How (not) to fool yourself with p-values and other statistics,” American Psychological Association Convention, San Francisco, CA, August 2018.
 
 Invited presenter, “Quantitative Communication: Tips and Tricks,” Applied Biostatistical Sciences Network lecture series at the Michigan Institute for Clinical & Health Research , University of Michigan, Ann Arbor, MI, June 2018.
-
-Invited presenter, “Understanding and Communicating P-values,” University of Rochester Medical School, Rochester, NY, June 2018.
 
 Invited speaker, “How journalists think about statistics -- and how they don’t,” Advanced Placement Statistics Readers’ Conference, Kansas City, MO, June 2018.
 
