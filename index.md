@@ -5,7 +5,7 @@ title: Regina Nuzzo
 # Regina Nuzzo
 <div id="webaddress">
 <a href="Regina.Nuzzo@gmail.com">Regina.Nuzzo@gmail.com</a>
-| <a href="my.gallaudet.edu/regina-nuzzo">university web page</a>
+| <a href="https://reginanuzzo.com">reginanuzzo.com</a>
 </div>
 
 ## education
