@@ -155,7 +155,7 @@ h3 {
 }
 
 a:link {
-	color: #32a852;
+	color: #001855;
 	text-decoration:underline
 }
 
@@ -173,6 +173,7 @@ a:hover {
 }
 
 #webaddress a {
+	color: #001855
 	text-decoration: underline;
 }
 
