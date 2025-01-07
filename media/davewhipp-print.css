@@ -154,8 +154,8 @@ h3 {
 	width: 20%;
 }
 
-a {
-	color: inherit;
+a:link {
+	color: #001855;
 	text-decoration:underline
 }
 
