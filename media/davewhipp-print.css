@@ -160,17 +160,17 @@ a:link {
 }
 
 a:visited {
-	color: #001855
+	color: #001855;
 	text-decoration: underline
 }
 
 a:hover {
-	color: #39f
+	color: #39f;
 	text-decoration: none
 }
 
 a:active{
-	color: #39f
+	color: #39f;
 	text-decoration: none
 }
 
@@ -184,13 +184,13 @@ a:active{
 }
 
 #webaddress a {
-	color: #001855
+	color: #001855;
 	text-decoration: underline;
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
+	/*color: #2d4e5e*/
 	
 }
 
