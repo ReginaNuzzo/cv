@@ -155,7 +155,7 @@ h3 {
 }
 
 a:link {
-	color: #001855;
+	color: #32a852;
 	text-decoration:underline
 }
 
@@ -179,6 +179,7 @@ a:hover {
 em {
 	font-style: normal;
 	color: #2d4e5e
+	
 }
 
 strong {
